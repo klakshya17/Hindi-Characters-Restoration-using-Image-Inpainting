@@ -2,6 +2,12 @@
 ## Inpainting with DIP and Efficientnet
 A dual-stage model integrating a custom EfficientNet model and a Deep Image Prior (DIP) model for inpainting the missing regions in deteriorated hindi documents.
 
+<img width="1425" alt="Mask and Image" src="https://github.com/klakshya17/Hindi-Characters-Restoration-using-Image-Inpainting/assets/56078582/6dc4767f-91f8-45e3-9ba3-58bb0b0ea583">
+
+![Iterations_ka](https://github.com/klakshya17/Hindi-Characters-Restoration-using-Image-Inpainting/assets/56078582/75a665db-a911-4940-8676-325fd7efe077)
+
+<img width="1756" alt="Iterations_kha" src="https://github.com/klakshya17/Hindi-Characters-Restoration-using-Image-Inpainting/assets/56078582/827e8ad2-b20c-4faf-88c2-32d2cace17be">
+
 
 ## Training the Model
 
